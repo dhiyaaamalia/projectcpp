@@ -8,6 +8,8 @@ class History{
     public:
     void headerHistory();
     void displayhistoryRent();
+    
+
 };
 
 #endif //_HISTORY_H
