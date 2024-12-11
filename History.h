@@ -1,4 +1,3 @@
-Rent.h
 #ifndef _HISTORY_H
 #define _HISTORY_H
 #include<istream>
@@ -12,6 +11,3 @@ class History{
 };
 
 #endif //_HISTORY_H
-
-
-
